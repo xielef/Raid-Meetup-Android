@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
-    <a href="https://www.bitrise.io/app/???">
-        <img src="https://www.bitrise.io/app/???.svg?token=???&branch=stable" alt="Build Status">
+    <a href="https://www.bitrise.io/app/49ceeb364feb9f18">
+        <img src="https://www.bitrise.io/app/49ceeb364feb9f18.svg?token=tCgvVSh9D5kD1CUgQCeNAw&branch=stable" alt="Build Status">
     </a>
-    <a href="https://codebeat.co/projects/github-com-flinesoft-raid-meetup-android">
-        <img src="https://codebeat.co/badges/???" alt="Codebeat Badge">
+    <a href="https://codebeat.co/projects/github-com-flinesoft-raid-meetup-android-stable">
+        <img src="https://codebeat.co/badges/06071caa-b3da-4ad4-89f1-665a1ad0880d" alt="Codebeat Badge">
     </a>
     <img src="https://img.shields.io/badge/Kotlin-1.1-FFAC45.svg" alt="Kotlin: 1.1">
     <img src="https://img.shields.io/badge/Android_Studio-2.3-4598FF.svg" alt="Android Studio: 2.3">
