@@ -11,7 +11,7 @@
         <img src="https://codebeat.co/badges/???" alt="Codebeat Badge">
     </a>
     <img src="https://img.shields.io/badge/Kotlin-1.1-FFAC45.svg" alt="Kotlin: 1.1">
-    <img src="https://img.shields.io/badge/Anroid-Studio-2.3-4598FF.svg" alt="Android Studio: 2.3">
+    <img src="https://img.shields.io/badge/Android_Studio-2.3-4598FF.svg" alt="Android Studio: 2.3">
     <img src="https://img.shields.io/badge/Platforms-Android-FF69B4.svg" alt="Platforms: Android">
     <a href="https://github.com/Flinesoft/Raid-Meetup-Android/blob/stable/LICENSE.md">
 				<img src="https://img.shields.io/badge/License-GPL--3.0-lightgrey.svg" alt="License: GPL-3.0">
